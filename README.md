@@ -46,7 +46,7 @@ To install and run this project locally, follow these steps:
 ### Snapshots
 ---
 <img width="1470" alt="Screenshot 2024-06-30 at 7 28 28 PM" src="https://github.com/arcane77/react-apps/assets/96630482/18fdfe2b-4c66-4c16-84c8-d9370f09148e">
----
+
 <img width="1470" alt="Screenshot 2024-06-30 at 7 36 14 PM" src="https://github.com/arcane77/react-apps/assets/96630482/f6dcaa16-2d1a-4e01-9fcb-30504be0ea5b">
 
 
