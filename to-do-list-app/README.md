@@ -1,4 +1,4 @@
-## 2. ToDoList App
+## ToDoList App
 ---
 
 this react application integrates a to-do list with a calendar functionality, allowing users to manage their tasks alongside viewing the current month.
